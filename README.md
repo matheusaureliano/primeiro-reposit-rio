@@ -1,2 +1,2 @@
 
-# primeiro-repositrio
+# primeiro-repositório
